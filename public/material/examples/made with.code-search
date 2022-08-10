@@ -1,0 +1,211 @@
+# Query: made with
+# ContextLines: 1
+
+43 results - 36 files
+
+public\material\examples\calendar.html:
+  373                          </script>
+  374:                         <a href="http://www.creative-tim.com/">Creative Tim</a>, made with love for a better web
+  375                      </p>
+
+public\material\examples\charts.html:
+  459                          </script>
+  460:                         <a href="http://www.creative-tim.com/">Creative Tim</a>, made with love for a better web
+  461                      </p>
+
+public\material\examples\dashboard.html:
+  738                          </script>
+  739:                         <a href="http://www.creative-tim.com/">Creative Tim</a>, made with love for a better web
+  740                      </p>
+
+public\material\examples\widgets.html:
+  745                          </script>
+  746:                         <a href="http://www.creative-tim.com/">Creative Tim</a>, made with love for a better web
+  747                      </p>
+
+public\material\examples\components\buttons.html:
+  838                          </script>
+  839:                         <a href="http://www.creative-tim.com/">Creative Tim</a>, made with love for a better web
+  840                      </p>
+
+public\material\examples\components\grid.html:
+  576                          </script>
+  577:                         <a href="http://www.creative-tim.com/">Creative Tim</a>, made with love for a better web
+  578                      </p>
+
+public\material\examples\components\icons.html:
+  381                          </script>
+  382:                         <a href="http://www.creative-tim.com/">Creative Tim</a>, made with love for a better web
+  383                      </p>
+
+public\material\examples\components\notifications.html:
+  359                                          </button>
+  360:                                         <span data-notify="message">This is a notification with close button and icon and is made with ".alert-rose". You can see that the icon and the close button are always vertically aligned. This is a beautiful notification. So you don't have to worry about the style.</span>
+  361                                      </div>
+
+  375                                          <span>
+  376:                                             <b> Info - </b> This is a regular notification made with ".alert-info"</span>
+  377                                      </div>
+
+  382                                          <span>
+  383:                                             <b> Success - </b> This is a regular notification made with ".alert-success"</span>
+  384                                      </div>
+
+  389                                          <span>
+  390:                                             <b> Warning - </b> This is a regular notification made with ".alert-warning"</span>
+  391                                      </div>
+
+  396                                          <span>
+  397:                                             <b> Danger - </b> This is a regular notification made with ".alert-danger"</span>
+  398                                      </div>
+
+  403                                          <span>
+  404:                                             <b> Primary - </b> This is a regular notification made with ".alert-primary"</span>
+  405                                      </div>
+
+  410                                          <span>
+  411:                                             <b> Rose - </b> This is a regular notification made with ".alert-rose"</span>
+  412                                      </div>
+
+  593                          </script>
+  594:                         <a href="http://www.creative-tim.com/">Creative Tim</a>, made with love for a better web
+  595                      </p>
+
+public\material\examples\components\panels.html:
+  644                          </script>
+  645:                         <a href="http://www.creative-tim.com/">Creative Tim</a>, made with love for a better web
+  646                      </p>
+
+public\material\examples\components\sweet-alert.html:
+  432                          </script>
+  433:                         <a href="http://www.creative-tim.com/">Creative Tim</a>, made with love for a better web
+  434                      </p>
+
+public\material\examples\components\typography.html:
+  456                          </script>
+  457:                         <a href="http://www.creative-tim.com/">Creative Tim</a>, made with love for a better web
+  458                      </p>
+
+public\material\examples\forms\extended.html:
+  600                          </script>
+  601:                         <a href="http://www.creative-tim.com/">Creative Tim</a>, made with love for a better web
+  602                      </p>
+
+public\material\examples\forms\regular.html:
+  637                          </script>
+  638:                         <a href="http://www.creative-tim.com/">Creative Tim</a>, made with love for a better web
+  639                      </p>
+
+public\material\examples\forms\validation.html:
+  585                          </script>
+  586:                         <a href="http://www.creative-tim.com/">Creative Tim</a>, made with love for a better web
+  587                      </p>
+
+public\material\examples\forms\wizard.html:
+  526                          </script>
+  527:                         <a href="http://www.creative-tim.com/">Creative Tim</a>, made with love for a better web
+  528                      </p>
+
+public\material\examples\maps\google.html:
+  391                          </script>
+  392:                         <a href="http://www.creative-tim.com/">Creative Tim</a>, made with love for a better web
+  393                      </p>
+
+public\material\examples\maps\vector.html:
+  371                          </script>
+  372:                         <a href="http://www.creative-tim.com/">Creative Tim</a>, made with love for a better web
+  373                      </p>
+
+public\material\examples\pages\lock.html:
+  141                          </script>
+  142:                         <a href="http://www.creative-tim.com/">Creative Tim</a>, made with love for a better web
+  143                      </p>
+
+public\material\examples\pages\login.html:
+  181                          </script>
+  182:                         <a href="http://www.creative-tim.com/">Creative Tim</a>, made with love for a better web
+  183                      </p>
+
+public\material\examples\pages\pricing.html:
+  191                          </script>
+  192:                         <a href="http://www.creative-tim.com/">Creative Tim</a>, made with love for a better web
+  193                      </p>
+
+public\material\examples\pages\register.html:
+  213                          </script>
+  214:                         <a href="http://www.creative-tim.com/">Creative Tim</a>, made with love for a better web
+  215                      </p>
+
+public\material\examples\pages\timeline.html:
+  448                          </script>
+  449:                         <a href="http://www.creative-tim.com/">Creative Tim</a>, made with love for a better web
+  450                      </p>
+
+public\material\examples\pages\user.html:
+  465                          </script>
+  466:                         <a href="http://www.creative-tim.com/">Creative Tim</a>, made with love for a better web
+  467                      </p>
+
+public\material\examples\tables\datatables.net.html:
+  882                          </script>
+  883:                         <a href="http://www.creative-tim.com/">Creative Tim</a>, made with love for a better web
+  884                      </p>
+
+public\material\examples\tables\extended.html:
+  738                          </script>
+  739:                         <a href="http://www.creative-tim.com/">Creative Tim</a>, made with love for a better web
+  740                      </p>
+
+public\material\examples\tables\regular.html:
+  551                          </script>
+  552:                         <a href="http://www.creative-tim.com/">Creative Tim</a>, made with love for a better web
+  553                      </p>
+
+resources\views\layout\footer.blade.php:
+  31              </script>
+  32:             <a href="http://www.creative-tim.com/">Creative Tim</a>, made with love for a better web
+  33          </p>
+
+storage\framework\views\59adf387009b0b91e550bf15bd52182ac806ebc5.php:
+  31              </script>
+  32:             <a href="http://www.creative-tim.com/">Creative Tim</a>, made with love for a better web
+  33          </p>
+
+vendor\dompdf\dompdf\LICENSE.LGPL:
+  303      the user installs one, as long as the modified version is
+  304:     interface-compatible with the version that the work was made with.
+  305  
+
+vendor\ezyang\htmlpurifier\LICENSE:
+  303      the user installs one, as long as the modified version is
+  304:     interface-compatible with the version that the work was made with.
+  305  
+
+vendor\ezyang\htmlpurifier\library\HTMLPurifier\Injector.php:
+  89       * Prepares the injector by giving it the config and context objects:
+  90:      * this allows references to important variables to be made within
+  91       * the injector. This function also checks if the HTML environment
+
+vendor\mockery\mockery\docs\mockery\exceptions.rst:
+  30    compare to actual count
+  31: * ``getActualCount()`` - return actual calls made with given argument
+  32    constraints
+
+vendor\phenx\php-font-lib\LICENSE:
+  303      the user installs one, as long as the modified version is
+  304:     interface-compatible with the version that the work was made with.
+  305  
+
+vendor\realrashid\sweet-alert\readme.md:
+  58  
+  59: <p align="center"> <b>Made with ❤️ from Pakistan<b> </p>
+  60  
+
+vendor\realrashid\sweet-alert\docs\credits.md:
+  22  
+  23: <p align="center"> <b>Made with ❤️ from Pakistan<b> </p>
+
+vendor\sabberworm\php-css-parser\Doxyfile:
+  2038  
+  2039: # You can include diagrams made with dia in doxygen documentation. Doxygen will
+  2040  # then run dia to produce the diagram and insert it in the documentation. The
